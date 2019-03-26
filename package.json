@@ -1,0 +1,30 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "a site scraping app using mongodb",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "express-handlebars-boilerplate": "^1.2.2",
+    "mongoose": "^5.4.19",
+    "node": "^11.12.0",
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karatemaltliquor/scraper.git"
+  },
+  "author": "kml",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karatemaltliquor/scraper/issues"
+  },
+  "homepage": "https://github.com/karatemaltliquor/scraper#readme"
+}
